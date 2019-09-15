@@ -85,4 +85,4 @@ def theformtourl():
         return redirect(url_for('home', name = name))
 
 if __name__ == '__main__':
-	app.run()
+	app.run() 
